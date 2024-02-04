@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/AthulResume-Dev7yearsQA.pdf'
+import resume from '../assets/pdf/Athul-Sreenivasan-Resume9YrsFrontend2024.pdf'
 import image from '../assets/png/insta_pic.png'
 
 export const headerData = {
