@@ -8,6 +8,7 @@
     'React',
     'Wordpress',
     'AWS',
+    'GCP',
     'Bootstrap',
 ]
 
