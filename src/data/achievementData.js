@@ -15,7 +15,7 @@ export const achievementData = {
             details : 'Certificate received on completion of course from Udemy.com - A website for interactive Learning.',
             date : 'Jan 20, 2019',
             field : 'Programming',
-            image : 'https://www.udemy.com/staticx/udemy/js/webpack/dual-logos-desktop.0e03506fb02a4ce3073097e3fc035bba.svg'
+            image : 'https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg'
         },
         {
             id : 3,
@@ -23,7 +23,7 @@ export const achievementData = {
             details : 'Issued by NIIT Technologies.',
             date : 'Aug 20, 2013',
             field : 'Programming',
-            image : 'https://www.niit.com/en/learning-outsourcing/themes/niit/logo.svg'
+            image : 'https://logotyp.us/file/niit.svg'
         },
         {
             id : 4,
