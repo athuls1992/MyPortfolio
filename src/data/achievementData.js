@@ -31,7 +31,7 @@ export const achievementData = {
             details : 'Google Certified Digital Marketing Professional',
             date : 'Aug 20, 2017',
             field : 'Digital Marketing',
-            image : 'https://cdn.dribbble.com/users/2037940/screenshots/6228108/google-logo.png'
+            image : 'https://reportei.com/wp-content/uploads/2022/09/ads-ou-analytics.png'
         }
 
     ]
