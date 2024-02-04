@@ -16,7 +16,7 @@ export const servicesData = [
     },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Software Architecture',
         icon: <BiPencil /> 
     },
     {
@@ -37,7 +37,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Internet Research',
+        title: 'Design systems',
         icon: <FaInternetExplorer />
     },
     {
